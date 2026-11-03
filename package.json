@@ -76,7 +76,7 @@
     "eslint": "^8.2.0",
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-plugin-import": "^2.31.0",
-    "js-yaml": "^4.1.0",
+    "js-yaml": "^4.3.2",
     "nyc": "^17.1.0",
     "shelljs-changelog": "^0.2.6",
     "shelljs-release": "^0.5.3",
